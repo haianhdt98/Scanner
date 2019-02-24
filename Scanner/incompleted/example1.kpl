@@ -1,0 +1,5 @@
+Program Example1; (* Example 1 *)
+Begin
+hai anh dep trai
+'a' 'b'
+End. (* Example 1 *)
